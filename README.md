@@ -25,3 +25,11 @@ Código (entre crases)
 
 Link
 [Site do IFC](https://ifc.edu.br/)
+
+Tabela
+
+Número|Nome|Nota
+-|-|-
+1|João|9.5
+2|Patrck|0.5
+3|Hélio|4
